@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<launcher version="9.0" useroverride="True" showconfig="False" showviewdata="True" showdataentry="True" customlauncher="False">
+<pages lastselectedtab="0">
+<page index="0" pageref="Data Entry" name="Data Entry">
+<sessions>
+<session index="0" caption="Cattle" cell="0" view="2" icon="" />
+<session index="1" caption="Cattle Owner" cell="1" view="2" icon="" />
+<session index="2" caption="Config" cell="2" view="2" icon="" />
+<session index="3" caption="RFID" cell="3" view="2" icon="" />
+</sessions>
+</page>
+<page index="1" pageref="View Data" name="View Data">
+<sessions>
+<session index="0" caption="Cattle" cell="0" view="1" icon="" />
+<session index="1" caption="Cattle Owner" cell="1" view="1" icon="" />
+<session index="2" caption="Config" cell="2" view="1" icon="" />
+<session index="3" caption="RFID" cell="3" view="1" icon="" />
+</sessions>
+</page>
+</pages>
+</launcher>

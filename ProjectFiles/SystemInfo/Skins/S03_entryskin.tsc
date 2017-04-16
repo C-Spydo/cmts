@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entryskin version="9.0" index="2">
+    <form left="0" top="0" width="240" height="268" autoscaleformtoscreen="1" bgcolor="F0F8FF">
+<logiclist /><controls>
+<pagecontrol controlindex="3" type="Static" left="0" top="0" width="241" height="269" locked="False" visible="True" navigation="Top" bgcolor="F0F0F0" hideborder="0">
+<pages>
+<page pageindex="0" caption="Configurations" nextfieldindex="-1">
+<controls>
+<control controlindex="6" type="Button" left="9" top="35" width="92" height="85" locked="False" visible="True">
+<options caption="Scan All" action="25" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="Scannin All Tags..." scanneron_color="C0FFFF" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="7" type="Button" left="120" top="36" width="91" height="82" locked="False" visible="True">
+<options caption="Server Config" action="7" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="8" type="Button" left="10" top="136" width="87" height="88" locked="False" visible="True">
+<options caption="Sync to Database" action="21" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="1" tpc_syncprofileid="2" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="9" type="Button" left="116" top="135" width="96" height="88" locked="False" visible="True">
+<options caption="Sync From Database" action="21" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="1" tpc_syncprofileid="1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+</controls>
+</page>
+</pages>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</pagecontrol>
+</controls>
+</form>
+</entryskin>

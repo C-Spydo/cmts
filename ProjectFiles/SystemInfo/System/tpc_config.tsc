@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tpcconfig>
+<hosts defaulthostid="1"><host id="1" addr=" 41.184.122.84 " port="4403" /></hosts><synctimers><synctimer id="1" enabled="True" hostid="1" profileid="2" interval="120" /></synctimers><realtimesessions autosendrecsonreconnect="True"><sessionindex enabled="True" hostid="1" profileid="2" sessionindex="0" /><sessionindex enabled="True" hostid="1" profileid="2" sessionindex="1" /><sessionindex enabled="True" profileid="2" sessionindex="2" /><sessionindex enabled="True" hostid="1" profileid="2" sessionindex="3" /><sessionindex enabled="True" hostid="1" profileid="2" sessionindex="4" /></realtimesessions><conditions /><options><feedback showsyncprogress="True" autoclosetime="5" /></options>
+</tpcconfig>

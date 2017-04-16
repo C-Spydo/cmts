@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entryskin version="9.0" index="1">
+    <form left="0" top="0" width="240" height="268" autoscaleformtoscreen="1" bgcolor="F0F8FF">
+<logiclist /><controls>
+</controls>
+<pagecontrol controlindex="4" type="Static" left="0" top="0" width="240" height="266" locked="False" visible="True" navigation="Top" bgcolor="80FFFF" hideborder="0">
+<pages>
+<page pageindex="0" caption="Add Owner" nextfieldindex="-1">
+<controls>
+<control controlindex="2" type="Static" left="6" top="34" width="69" height="19" locked="False" visible="True">
+<options caption="ID" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="5" type="Static" left="4" top="56" width="72" height="19" locked="False" visible="True">
+<options caption="First Name" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="6" type="Static" left="4" top="80" width="68" height="19" locked="False" visible="True">
+<options caption="Last Name" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="7" type="Static" left="3" top="104" width="72" height="19" locked="False" visible="True">
+<options caption="Address" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="8" type="Static" left="2" top="127" width="72" height="19" locked="False" visible="True">
+<options caption="Phone" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="9" type="Static" left="3" top="149" width="67" height="19" locked="False" visible="True">
+<options caption="Gender" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="0000FF" size="11" weight="750" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="3" type="DB" left="77" top="33" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="0" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="11" type="DB" left="77" top="56" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="1" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="12" type="DB" left="77" top="80" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="2" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="13" type="DB" left="77" top="103" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="3" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="14" type="DB" left="77" top="126" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="4" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="17" type="Button" left="16" top="179" width="75" height="21" locked="False" visible="True">
+<options caption="Add" action="1" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="19" type="Button" left="106" top="179" width="75" height="21" locked="False" visible="True">
+<options caption="Clear All" action="2" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="15" type="DB" left="76" top="149" width="120" height="19" locked="False" visible="True">
+<options dbsourcefield="5" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+</controls>
+</page>
+<page pageindex="1" caption="View Owners" nextfieldindex="-1">
+<controls>
+<control controlindex="16" type="Grid" left="5" top="28" width="227" height="234" locked="False" visible="True">
+<options readonly="True" cachedmode="True" showtoolbar="False" beep="True" beeprowupdate="True" editmodeonselect="False" recordcntctrlindex="-1" retainsort="False"><data sourcesession="1"><filters />
+</data>
+<columns showcolumnheaders="True"><column dbremotefield="6" width="70" caption="First Name" boundcontrol="-1" keycolumn="False" sort="0" coltype="0" bindingdir="1" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+<column dbremotefield="7" width="70" caption="Last Name" boundcontrol="-1" keycolumn="False" sort="0" coltype="0" bindingdir="0" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+<column dbremotefield="8" width="60" caption="Address" boundcontrol="-1" keycolumn="False" sort="0" coltype="0" bindingdir="0" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+<column dbremotefield="9" width="80" caption="Phone Number" boundcontrol="-1" keycolumn="False" sort="0" coltype="0" bindingdir="0" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+</columns>
+</options>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+</controls>
+</page>
+</pages>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</pagecontrol>
+</form>
+</entryskin>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<session version="9.0" index="1" customiconused="False">
+<comment />
+<general name="Cattle Owner" enabled="True" readonly="False" startonscreen="Entry" submitonerror="False" onsubmitgotoindex="-1" startonfield="0" />
+<localio>
+<import archiveafterimport="True" />
+<export enabled="True" exportas="Tab" appendtoexisting="True" includefieldnames="False" includenonvisiblefields="True" deleteafterdbexport="False" respectfilter="True" exportfilename="" promptforimportfile="False" importfiledelimiter="Tab">
+<exportfilters enabled="False">
+<filter f_idx="0" compareoperator="Equal" filtervalue="" />
+</exportfilters>
+</export>
+</localio>
+<wireless enabled="False" hostaddress="" hostport="4402" nickname="" keepalive="False" />
+<print enableprinter="False"><reports /></print>
+<message enablemessage="False"><reports /></message>
+<datacapture><barcode enablenativescanner="True" /><rfid enablenativescanner_rfid="False" membankuserbytecount="64" membankepcbytecount="12" rfidtagformat="1" rfidtagsession="1" rfidantennaxmitpower="27" flushtagevent="0" scanstopevent="0" inventory_membank_epc="True" inventory_membank_user="False" rfidstopgotoctrlid="-1" scanwidth="0" scanheight="0" /></datacapture>
+<filters />
+<grid>
+<options editonfind="False" editonclick="False" retainfilter="False" />
+<columns>
+</columns>
+</grid>
+<updateoptions updateonpost="True" appendifnotfound="True"><updatefields><field index="0" /><field index="1" /><field index="2" /><field index="3" /><field index="4" /><field index="5" /></updatefields></updateoptions>
+<smartform><scancomplete /><datacomplete /></smartform>
+<skins>
+<skin type="entry" index="1">
+</skin>
+</skins>
+<fields keyfield="0">
+<field index="0" name="ID" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="0" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="0" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="0">
+
+</validations>
+
+</field>
+<field index="1" name="owner_id" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="1" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="1" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="1">
+
+</validations>
+
+</field>
+<field index="2" name="owner_name" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="2" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="2" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="2">
+
+</validations>
+
+</field>
+<field index="3" name="email" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="3" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="3" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="3">
+
+</validations>
+
+</field>
+<field index="4" name="phone_number" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="4" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="4" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="4">
+
+</validations>
+
+</field>
+<field index="5" name="no_of_cattle" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="5" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="5" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="5">
+
+</validations>
+
+</field>
+<field index="6" name="Field 7" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="6" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="6" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="6">
+
+</validations>
+
+</field>
+<field index="7" name="Field 8" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="7" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="7" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="7">
+
+</validations>
+
+</field>
+<field index="8" name="Field 9" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="8" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="8" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="8">
+
+</validations>
+
+</field>
+<field index="9" name="Field 10" type="Text">
+<comment />
+<general datatype="General" defaultvalue="" visible="True" readonly="False" usepopup="False" includeinexport="True" colwidth="50" />
+<afterscan disablegoto="0" gotofieldindex="9" autosubmit="False" clearonsubmit="True" autofindonscan="False" updatevalue="False" printonsubmit="False" autofind_msgtype="PromptUser" disabledatachangedonblankdata="False" soundondatachanged="False" datachangedsoundfilename="" datachangedgotoctrlid="-1" />
+<typeoptions />
+<validations validation_custommsg="" useerrorgoto="True" validation_onerrorgoto="9" validsoundfilename="" validation_saveerrortofield_enabled="False" validation_saveerrortofieldindex="9">
+
+</validations>
+
+</field>
+</fields>
+</session>

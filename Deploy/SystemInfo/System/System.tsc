@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<systemprefs version="9.0">
+<system operatingmode="1" requirelogin="True" clearuseronlogin="False" userloginfileencrypted="False" adminpassword="spydo" autorestoredbs="False" fullscreen="False" hidesip="True" disablemenubar="False" disablekbnav="False" timeoutvalue="90" timeout="True" enablenativescanner="True" enablenativescanner_rfid="False" encryptedproject="False" projectrevision="" sqlservercedb="True" useadminpassword="True" passwordmask="21" />
+</systemprefs>

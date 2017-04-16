@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<session version="9.0">
+<sessionprefs enabled="1" readonly="0" exportenabled="True" dataexporttype="0" importfiledelimiter="0" deleteafterhotsync="0" respectfilter="1" archivepcdata="1" appendtoexisting="1" sendnonvisiblefields="1" includefieldnames="0" exportfilename="" promptforimportfile="0" submitonerror="0" onsubmitgotoindex="-1" entryskin="0" startonfieldindex="1" startonscreen="2" lastfindfield="0" fieldcount="100" editonfind="0" editongridclick="0" persistfilter="0" keyfieldindex="1" UseCustomValidationMessages="0">
+<exportfilters enabled="False">
+<filter f_idx="0" compareoperator="0" filtervalue="">
+</filter>
+</exportfilters></sessionprefs>
+<wireless enabled="0" wirelessreadystatus="0" hostaddress="" hostport="4402" pdanickname="" keepalive="0" />
+<updateoptions updateonpost="False" appendifnotfound="True"><updatefields /></updateoptions>
+<print enableprinter="False"><reports /></print>
+<message enablemessage="False"><reports /></message>
+<smartform><scancomplete /><datacomplete /></smartform>
+<datacapture><barcode enablenativescanner="True" /><rfid enablenativescanner_rfid="False" membankuserbytecount="64" membankepcbytecount="12" rfidtagformat="1" rfidtagsession="1" rfidantennaxmitpower="27" flushtagevent="0" scanstopevent="0" inventory_membank_epc="True" inventory_membank_user="False" rfidstopgotoctrlid="-1" scanwidth="0" scanheight="0" /></datacapture>
+</session>

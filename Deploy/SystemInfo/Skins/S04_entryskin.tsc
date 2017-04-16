@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entryskin version="9.0" index="3">
+    <form left="0" top="1" width="240" height="268" autoscaleformtoscreen="1" bgcolor="F0F8FF">
+<logiclist><logicitem eventtype="5" eventvalue="" enabled="1" actiontype="17" evalcondition="0" performelse="1" multiconditiontype="0" comment="" eventctrlid="13" actionctrlid="12" actionvalue="" elseactionvalue="" /></logiclist><controls>
+</controls>
+<pagecontrol controlindex="7" type="Static" left="0" top="0" width="236" height="266" locked="False" visible="True" navigation="Top" bgcolor="80FFFF" hideborder="0">
+<pages>
+<page pageindex="0" caption="Track Cattle" nextfieldindex="-1">
+<controls>
+<control controlindex="3" type="Static" left="4" top="105" width="70" height="19" locked="False" visible="True">
+<options caption="Tag ID" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="9" type="DB" left="77" top="107" width="100" height="19" locked="False" visible="True">
+<options dbsourcefield="1" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="12" type="DB" left="6" top="50" width="150" height="19" locked="False" visible="True">
+<options dbsourcefield="3" maskinput="False" bgcolor="FFFFFF" hiderefreshbutton="False" multiline="False" textcase="Standard" inputtype="0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="13" type="Button" left="156" top="49" width="51" height="22" locked="False" visible="True">
+<options caption="Search" action="44" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0"><obd2 pairname=""><items /></obd2></options>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="14" type="Static" left="4" top="30" width="100" height="19" locked="False" visible="True">
+<options caption="Cattle Id" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="15" type="BitmapButton" left="2" top="87" width="233" height="15" locked="False" visible="True">
+<options caption="" staticbitmap="False" action="-1" buttonup="" buttondown="" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="-1" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" />
+</control>
+<control controlindex="16" type="Static" left="5" top="74" width="100" height="19" locked="False" visible="True">
+<options caption="Result" datadriven="False" bgcolor="F0F0F0" align="Left" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="18" type="Button" left="178" top="107" width="38" height="20" locked="False" visible="True">
+<options caption="Find" action="33" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="9" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+</controls>
+</page>
+<page pageindex="1" caption="View All Tags" nextfieldindex="-1">
+<controls>
+<control controlindex="20" type="Grid" left="2" top="32" width="166" height="163" locked="False" visible="True">
+<options readonly="True" cachedmode="False" showtoolbar="False" beep="False" beeprowupdate="False" editmodeonselect="False" recordcntctrlindex="-1" retainsort="False"><data sourcesession="3"><filters />
+</data>
+<columns showcolumnheaders="True"><column dbremotefield="1" width="100" caption="Tag ID" boundcontrol="-1" keycolumn="True" sort="1" coltype="0" bindingdir="0" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+<column dbremotefield="3" width="60" caption="Cattle_ID" boundcontrol="-1" keycolumn="True" sort="0" coltype="0" bindingdir="0" requiredcolumn="False" triggersbinding="True" clearoninsertupdate="False" gridsortnat="True" gridsortasc="True" gridsortdesc="True" />
+</columns>
+</options>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="21" type="Button" left="167" top="32" width="62" height="163" locked="False" visible="True">
+<options caption="Locate" action="33" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="(new button)" scanneron_color="F0F0F0" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+<control controlindex="22" type="Button" left="2" top="199" width="227" height="52" locked="False" visible="True">
+<options caption="Scan" action="25" hotkey="" gotopageindex="" nextfieldindex="-1" dbsourcefield="0" value="" setvaluecontrolindex="-1" setvalueoverwrite="True" triggerafterscan="False" externalapp="" rfidtagidcontrolindex="-1" rfidreadwritecontrolindex="-1" rfidtagmemorybank="3" tpc_synchostid="-1" tpc_syncprofileid="-1" userconfirmprompt="False" promptdatachanged="False" clearall_usedefaultfieldvalues="False" clearall_includereadonlyfields="False" deleteallallsessions="False" failgoto="-1" successgoto="-1" confprompt_message="" gpsavg_samplecount="10" gpslat_ctrlid="-1" gpslong_ctrlid="-1" gps_autoclosedlg="0" gps_minprecision="100" timer_timerid="-1" timer_action="0" customactionfunction="" incr_value="1" scanneron_caption="Scanng............." scanneron_color="0000FF" gridnav_ctrlid="-1" gridsortcolindex="-1" bgcolor="F0F0F0" />
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</control>
+</controls>
+</page>
+</pages>
+<font face="Tahoma" color="000000" size="11" weight="100" underline="False" italic="False" strikeout="False" />
+</pagecontrol>
+</form>
+</entryskin>

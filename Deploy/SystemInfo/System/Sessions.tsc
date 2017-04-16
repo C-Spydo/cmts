@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sessions version="9.0">
+<session index="1" name="Cattle" enabled="1" filename="S01_config.tsc" keyfieldindex="1" />
+<session index="2" name="Cattle Owner" enabled="1" filename="S02_config.tsc" keyfieldindex="1" />
+<session index="3" name="Config" enabled="1" filename="S03_config.tsc" keyfieldindex="1" />
+<session index="4" name="RFID" enabled="1" filename="S04_config.tsc" keyfieldindex="1" />
+<session index="5" name="Session 05" enabled="0" filename="S05_config.tsc" keyfieldindex="1" />
+<session index="6" name="Session 06" enabled="0" filename="S06_config.tsc" keyfieldindex="1" />
+<session index="7" name="Session 07" enabled="0" filename="S07_config.tsc" keyfieldindex="1" />
+<session index="8" name="Session 08" enabled="0" filename="S08_config.tsc" keyfieldindex="1" />
+<session index="9" name="Session 09" enabled="0" filename="S09_config.tsc" keyfieldindex="1" />
+<session index="10" name="Session 10" enabled="0" filename="S10_config.tsc" keyfieldindex="1" />
+<session index="11" name="Session 11" enabled="0" filename="S11_config.tsc" keyfieldindex="1" />
+<session index="12" name="Session 12" enabled="0" filename="S12_config.tsc" keyfieldindex="1" />
+<session index="13" name="Session 13" enabled="0" filename="S13_config.tsc" keyfieldindex="1" />
+<session index="14" name="Session 14" enabled="0" filename="S14_config.tsc" keyfieldindex="1" />
+<session index="15" name="Session 15" enabled="0" filename="S15_config.tsc" keyfieldindex="1" />
+<session index="16" name="Session 16" enabled="0" filename="S16_config.tsc" keyfieldindex="1" />
+<session index="17" name="Session 17" enabled="0" filename="S17_config.tsc" keyfieldindex="1" />
+<session index="18" name="Session 18" enabled="0" filename="S18_config.tsc" keyfieldindex="1" />
+<session index="19" name="Session 19" enabled="0" filename="S19_config.tsc" keyfieldindex="1" />
+<session index="20" name="Session 20" enabled="0" filename="S20_config.tsc" keyfieldindex="1" />
+<session index="21" name="Session 21" enabled="0" filename="S21_config.tsc" keyfieldindex="1" />
+<session index="22" name="Session 22" enabled="0" filename="S22_config.tsc" keyfieldindex="1" />
+<session index="23" name="Session 23" enabled="0" filename="S23_config.tsc" keyfieldindex="1" />
+<session index="24" name="Session 24" enabled="0" filename="S24_config.tsc" keyfieldindex="1" />
+<session index="25" name="Session 25" enabled="0" filename="S25_config.tsc" keyfieldindex="1" />
+<session index="26" name="Session 26" enabled="0" filename="S26_config.tsc" keyfieldindex="1" />
+<session index="27" name="Session 27" enabled="0" filename="S27_config.tsc" keyfieldindex="1" />
+<session index="28" name="Session 28" enabled="0" filename="S28_config.tsc" keyfieldindex="1" />
+<session index="29" name="Session 29" enabled="0" filename="S29_config.tsc" keyfieldindex="1" />
+<session index="30" name="Session 30" enabled="0" filename="S30_config.tsc" keyfieldindex="1" />
+<session index="31" name="Session 31" enabled="0" filename="S31_config.tsc" keyfieldindex="1" />
+<session index="32" name="Session 32" enabled="0" filename="S32_config.tsc" keyfieldindex="1" />
+</sessions>
